@@ -1,7 +1,8 @@
-baseURL = "http://kenstevens.github.io/"
+baseURL = "https://kenstevens.github.io/"
 languageCode = "en-us"
 title = "Ken's Blog"
 theme = "blank"
+publishDir = "kenstevens.github.io"
 
 [menu]
 
