@@ -1,11 +1,22 @@
 {
   "name": "myblog",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Ken Stevens",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenstevens/myblog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "bugs": {
+    "url": "https://github.com/kenstevens/myblog/issues"
+  },
+  "homepage": "https://github.com/kenstevens/myblog#readme",
+  "description": ""
 }
